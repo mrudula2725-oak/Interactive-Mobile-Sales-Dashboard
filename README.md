@@ -6,7 +6,7 @@ An interactive Power BI dashboard that analyzes mobile phone sales and turns raw
 ## Project Overview
 The dashboard helps users explore sales trends, product and brand performance, and key business metrics using KPI cards, charts, slicers and drill-down views.
 
-**Dataset:** [describe your data, e.g. mobile sales records with columns such as brand, model, price, units sold, region, date]
+**Dataset:** Mobile phone sales transactions with details such as brand, mobile model, payment method, ratings, quantity, price and date.
 
 ## Tools & Technologies
 - Power BI Desktop
