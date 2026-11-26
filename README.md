@@ -1,70 +1,53 @@
-# Power BI Dashboard
+# Interactive Mobile Sales Dashboard
 
-## 📊 Project Overview
+An interactive Power BI dashboard that analyzes mobile phone sales and turns raw sales data into business insights.
 
-This project is an interactive Power BI dashboard developed to analyze business data and generate meaningful insights through data visualization.
+## Project Overview
+The dashboard helps users explore sales trends, product and brand performance, and key business metrics using KPI cards, charts, slicers and drill-down views.
 
-The dashboard provides interactive KPIs, charts, filters, and analytical views to help users understand trends, performance, and key business metrics.
+**Dataset:** [describe your data, e.g. mobile sales records with columns such as brand, model, price, units sold, region, date]
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
+- Power BI Desktop
+- Power Query (data cleaning and transformation)
+- DAX (calculated measures)
+- Data visualization
 
-- Power BI
-- Power Query
-- DAX
-- Data Cleaning
-- Data Transformation
-- Data Visualization
+## Key Features
+- KPI cards: [e.g. total sales, units sold, average price]
+- Slicers and filters: [e.g. brand, region, year]
+- Interactive charts with drill-down
+- Calculated measures written in DAX
+- Three report pages (Overview, Performance Analysis, Detailed Analysis)
 
-## 📌 Key Features
-
-- Interactive dashboard
-- KPI cards
-- Dynamic charts and graphs
-- Slicers and filters
-- Data transformation using Power Query
-- Calculated measures using DAX
-- Business performance analysis
-- Drill-down / interactive analysis
-
-## 📈 Dashboard Pages
-
+## Dashboard Pages
 ### 1. Overview
-
-Provides a high-level summary of the important business KPIs.
+High-level KPIs such as [your KPIs].
 
 ### 2. Performance Analysis
-
-Shows trends and performance using interactive charts and visualizations.
+Sales trends and performance by [brand / category / region / time].
 
 ### 3. Detailed Analysis
+Detailed views with filters and slicers to explore [what the page shows].
 
-Provides deeper analysis using filters, slicers, and detailed visualizations.
+## Dashboard Preview
+![Dashboard Overview](Screenshots/dashboard-overview.png)
 
-## 📷 Dashboard Preview
+## Key Insights
+- [Insight 1, e.g. Brand X contributes the highest share of sales]
+- [Insight 2, e.g. Sales peak in a particular month or region]
+- [Insight 3, e.g. Price range Y sells the most units]
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+## Project Files
+- `DashBoard.pbix`: Power BI dashboard file
+- `Screenshots/`: dashboard screenshots
+- `README.md`: project documentation
 
-## 🔍 Key Insights
+## How to Use
+1. Download `DashBoard.pbix`.
+2. Open it in Microsoft Power BI Desktop.
+3. Refresh the data if required.
+4. Use the slicers and filters to explore the dashboard.
 
-- Identified important business trends from historical data.
-- Analyzed performance across different categories.
-- Used interactive filters to perform detailed analysis.
-- Created calculated measures using DAX.
-- Converted raw data into meaningful visual insights.
-
-## 📂 Project Files
-
-- `PowerBI_Dashboard.pbix` — Power BI dashboard
-- `screenshots/` — Dashboard screenshots
-- `README.md` — Project documentation
-
-## 🚀 How to Use
-
-1. Download the `.pbix` file.
-2. Open it using Microsoft Power BI Desktop.
-3. Refresh the dataset if required.
-4. Use the available filters and slicers to explore the dashboard.
-
-## 👩‍💻 Author
-
+## Author
 Mrudula Oak
