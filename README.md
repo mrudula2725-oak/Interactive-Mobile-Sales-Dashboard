@@ -31,7 +31,14 @@ Sales trends and performance by [brand / category / region / time].
 Detailed views with filters and slicers to explore [what the page shows].
 
 ## Dashboard Preview
-![Dashboard Overview](Screenshots/dashboard-overview.png)
+## Dashboard Preview
+![Dashboard](Screenshots/DashBoard.png)
+
+### Month-to-date (MTD) view
+![MTD](Screenshots/MTD.png)
+
+### Same period last year view
+![Last Year](Screenshots/LastYear.png)
 
 ## Key Insights
 - [Insight 1, e.g. Brand X contributes the highest share of sales]
