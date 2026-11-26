@@ -1,6 +1,7 @@
 # Interactive Mobile Sales Dashboard
 
 An interactive Power BI dashboard that analyzes mobile phone sales and turns raw sales data into business insights.
+**Demo video:** [Watch on YouTube](https://youtu.be/YOUR_LINK)
 
 ## Project Overview
 The dashboard helps users explore sales trends, product and brand performance, and key business metrics using KPI cards, charts, slicers and drill-down views.
